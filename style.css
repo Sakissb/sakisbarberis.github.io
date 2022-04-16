@@ -1,0 +1,38 @@
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: whitesmoke;
+}
+
+a {
+    color: blue;
+    font-size: 1em;
+}
+
+p {
+    text-align: center;
+    font-size: 1em;
+    color: white;
+}
+
+body {
+    background: url("images/patrick-tomasso-5hvn-2WW6rY-unsplash.jpg") no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    color: blue;
+    font-size: Arial, 1em;
+}
+
+div {
+    text-align: center;
+}
+
+.new {
+    text-align: right;
+}
+
+.new1 {
+    text-align: right;
+}
